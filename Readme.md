@@ -1,6 +1,6 @@
-php_hello_world_app
+SWT14 Bootstrap repository
 ======================
 
-A simple "Hello World" in PHP for the cloudControl PaaS Quickstart
+Einfache Website für den SWT14 Kurs an der THM. 
 
-https://www.cloudcontrol.com
+http://alexgretschnn2.cloudcontrolled.com
