@@ -1,5 +1,5 @@
 <?php
 	echo "Hello World";
-	echo "Alexander Gretschann";
+	echo "Alexander Gretschann.";
 	phpinfo();
 ?>
